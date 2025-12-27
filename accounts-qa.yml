@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to RushiBank accounts related QA APIs"
+  contactDetails:
+    name: "Smitha Ray - QA Lead"
+    email: "smitha@rushi.com"
+  onCallSupport:
+    -(666) 555-1234
+    -(666) 523-1345
