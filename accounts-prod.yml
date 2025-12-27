@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to RushiBank accounts related prod APIs"
+  message: "Welcome to RushiBank accounts related production APIs"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}33dda872864b59437fba4f82d1d6af38aeb0e7396d545508e1c4f1236e98c96b04d72bc0db6f5d29d89b6bb9f6afc99c"
@@ -10,3 +10,4 @@ accounts:
     -(777) 555-1234
 
     -(777) 523-1345
+
